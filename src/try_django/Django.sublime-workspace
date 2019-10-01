@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hom",
+				"home_page"
+			],
+			[
+				"dis",
+				"distinct_rows_helper"
+			],
+			[
+				"wo",
+				"working_place_name"
+			],
+			[
+				"user",
+				"user_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 833,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wsgi.py",
+			"settings":
+			{
+				"buffer_size": 397,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nadeengogary/Desktop/Django",
+		"/Users/nadeengogary/Desktop/Django/mara900",
+		"/Users/nadeengogary/Desktop/Django/mara900/src",
+		"/Users/nadeengogary/Desktop/Django/mara900/src/try_django"
+	],
+	"file_history":
+	[
+		"/Users/nadeengogary/Desktop/Django/mara900/src/try_django/views.py",
+		"/Users/nadeengogary/Downloads/FirstComeFirstServed.java",
+		"/Users/nadeengogary/Downloads/Team96.hs",
+		"/Users/nadeengogary/Downloads/Contacts_airmore_2019_05_07_17_33.xml",
+		"/Users/nadeengogary/Downloads/l7-p2_29021.hs",
+		"/Users/nadeengogary/Downloads/Team_96.pl",
+		"/Users/nadeengogary/Downloads/project(2).pl",
+		"/Users/nadeengogary/Downloads/lab5.pl",
+		"/Users/nadeengogary/Downloads/proj.pl",
+		"/Users/nadeengogary/Downloads/A1_40-0339_T11.pl",
+		"/Users/nadeengogary/Downloads/mystery([],L,L).pl",
+		"/Users/nadeengogary/Downloads/max.pl",
+		"/max.pl",
+		"/Users/nadeengogary/Downloads/Assignment-3/About.html",
+		"/Users/nadeengogary/Desktop/lab5_1.pl",
+		"/Users/nadeengogary/Desktop/Lab5.pl",
+		"/Users/nadeengogary/Downloads/angry-nerds-master/models/Comments.js",
+		"/Users/nadeengogary/Downloads/PA3.pl",
+		"/Users/nadeengogary/Downloads/Assignment-3 3/Highlights.html",
+		"/Users/nadeengogary/Desktop/Yasmine/Checklist/SHC_M2/src/Game/view/GameView.java",
+		"/Users/nadeengogary/Downloads/Assignment-3/Highlights.html",
+		"/Users/nadeengogary/Downloads/Assignment-3/Assignment-3.html",
+		"/Users/nadeengogary/Downloads/database_exec",
+		"/Users/nadeengogary/Downloads/reg_users.sql",
+		"/Users/nadeengogary/Downloads/Assignment-3.html",
+		"/Users/nadeengogary/Downloads/Assign1/Assign/Image.java",
+		"/Users/nadeengogary/Downloads/Assignment-3 2/Highlights.html",
+		"/Users/nadeengogary/Downloads/python-debugger/scripts/brython/www/src/py_VFS.js",
+		"/Users/nadeengogary/Downloads/Assignement 2_[T15]_[37-5628]  2/Media Assign/src/Assignment2/Blending.java",
+		"/Users/nadeengogary/Downloads/assignment2_27289 (1).java",
+		"/Users/nadeengogary/Downloads/assignment2_27289.java",
+		"/Users/nadeengogary/Downloads/Assignement 2_[T15]_[37-5628] /Media Assign/src/Assignment2/Filtering.java",
+		"/Users/nadeengogary/Downloads/SHC_M2 2/src/Game/view/GameView.java",
+		"/Users/nadeengogary/Desktop/sk2.jpg",
+		"/Users/nadeengogary/Downloads/ButtonD_26369.java",
+		"/Users/nadeengogary/Downloads/HarryPotterview.java",
+		"/Users/nadeengogary/Downloads/chatbot(2).pl",
+		"/Users/nadeengogary/Downloads/M2PrivateTests.java",
+		"/Users/nadeengogary/Documents/FIFA 18/Logs/ScpDsxInstaller_sab3store.log.xml",
+		"/Users/nadeengogary/Documents/FIFA 18/__Installer/installerdata.xml",
+		"/Users/nadeengogary/Desktop/chatbot(1).sh.pl",
+		"/Users/nadeengogary/Downloads/chatbot.pl",
+		"/Users/nadeengogary/Downloads/Supermarket_Lab3/src/guc/supermarket/Supermarket.java",
+		"/Users/nadeengogary/Downloads/Supermarket_Lab3/src/guc/supermarket/cart/Cart.java",
+		"/Users/nadeengogary/Desktop/99-quartz-wm.sh",
+		"/Users/nadeengogary/Downloads/jdk1.8.0_162/demo/db/programs/vtis/messages_en.properties",
+		"/Users/nadeengogary/Documents/workspace/Game/src/SHC_M1/src/exceptions/GameActionException.java",
+		"/Users/nadeengogary/Documents/workspace/Game/src/SHC_M1/src/model/game/Direction.java",
+		"/Users/nadeengogary/Documents/workspace/Game/src/SHC_M1/src/model/game/Cell.java",
+		"/Users/nadeengogary/Desktop/99-quartz-wm.sh.pl",
+		"/Users/nadeengogary/Desktop/untit.pl",
+		"/Users/nadeengogary/Desktop/untitled.pl"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								832,
+								832
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wsgi.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Django.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
